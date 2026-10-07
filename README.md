@@ -6,8 +6,6 @@ PDF dosyalarını yükleyip bunlar hakkında soru sorabileceğin, **Streamlit + 
 
 > Bu proje, **Tirendaz Academy AI Engineering Bootcamp – 2. Cohort** kapsamında RAG konusu için hazırlanan bir ders ödevidir.
 
-🎬 **Demo:** [Demo videosu]()
-
 ## ✨ Özellikler
 
 - **Çoklu PDF yükleme:** Birden fazla PDF aynı anda indekslenir. Her sayfa `source` (dosya adı) ve `page` metadata'sıyla saklanır.
