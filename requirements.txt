@@ -1,0 +1,8 @@
+streamlit
+pypdf
+langchain-core
+langchain-openai
+langchain-postgres
+langchain-text-splitters
+psycopg[binary]
+sqlalchemy
