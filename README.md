@@ -1,3 +1,5 @@
+
+
 # 📚 PDF_RAG_Assistant (PDF RAG Asistanı)
 
 PDF dosyalarını yükleyip bunlar hakkında soru sorabileceğin, **Streamlit + LangChain + PostgreSQL (pgvector)** tabanlı bir RAG uygulaması. Cevaplar yalnızca yüklenen dokümanlara dayanır ve kaynaklar (dosya, sayfa, chunk metni) cevabın altında gösterilir.
@@ -5,10 +7,6 @@ PDF dosyalarını yükleyip bunlar hakkında soru sorabileceğin, **Streamlit + 
 > Bu proje, **Tirendaz Academy AI Engineering Bootcamp – 2. Cohort** kapsamında RAG konusu için hazırlanan bir ders ödevidir.
 
 🎬 **Demo:** [Demo videosu]()
-
-
-
-
 
 ## ✨ Özellikler
 
